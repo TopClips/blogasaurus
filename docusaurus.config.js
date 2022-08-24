@@ -64,6 +64,22 @@ module.exports = {
         {
           title: 'Social',
           items: [
+             {
+              label: 'Website',
+              href: 'https://general-support.vercel.app',
+            },
+             {
+              label: 'Blog',
+              href: 'https://general-support-blog.vercel.app',
+            },
+            {
+              label: 'TOS',
+              href: 'https://general-support-blog.vercel.app/docs/tos',
+            },
+            {
+              label: 'Privacy Policy',
+              href: 'https://general-support-blog.vercel.app/docs/privacy',
+            }
           ],
         },
         {
@@ -72,6 +88,10 @@ module.exports = {
             {
               label: 'Home',
               to: '/',
+            },
+            {
+              label: 'Articles',
+              to: '/docs',
             },
           ]},
           {
