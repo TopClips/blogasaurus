@@ -91,7 +91,7 @@ module.exports = {
             },
             {
               label: 'Articles',
-              to: '/docs',
+              to: '/docs/tos',
             },
           ]},
           {
