@@ -20,14 +20,14 @@ module.exports = {
     metadatas: [
       {
         property: 'og:image',
-        content: 'https://avatars.githubusercontent.com/u/35087196?v=4',
+        content: 'https://media.discordapp.net/attachments/1011761431449960560/1011923441856811089/741ACF39-B2E2-4D66-A975-2EC764C3E1AB.png',
       },
-      {name: 'twitter:card', content: 'https://avatars.githubusercontent.com/u/35087196?v=4'},
+      {name: 'twitter:card', content: 'https://media.discordapp.net/attachments/1011761431449960560/1011923441856811089/741ACF39-B2E2-4D66-A975-2EC764C3E1AB.png'},
       {
         name: 'twitter:image',
-        content: 'https://avatars.githubusercontent.com/u/35087196?v=4',
+        content: 'https://media.discordapp.net/attachments/1011761431449960560/1011923441856811089/741ACF39-B2E2-4D66-A975-2EC764C3E1AB.png',
       },
-      {name: 'twitter:site', content: '@battleofplassey'},
+      {name: 'twitter:site', content: 'General Support Blog'},
     ],
     announcementBar: {
       id: "support_us",
