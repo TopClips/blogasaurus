@@ -1,7 +1,7 @@
 ---
-id: privacyw
-title: Privacy Policyw
-sidebar_label: Privacy Policyw
+id: whoami
+title: whoami
+sidebar_label: whoami
 sidebar_position: 3
 
 ---
