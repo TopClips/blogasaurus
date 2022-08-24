@@ -1,26 +1,40 @@
 ---
-id: favourite-quotes
-title: Favourite Quotes
-sidebar_label: Favourite Quotes
-sidebar_position: 2
+id: tos
+title: Terms Of Service
+sidebar_label: Terms Of Service
+sidebar_position: 1
 
 ---
-> Numbers do not lie. Politics, poetry, promises, these are lies. Numbers are the closest we get to the handwriting of god.
+• Be respectful
+You must respect everyone, regardless of your liking towards them. Treat others the way you want to be treated.
 
-> Hard times create strong men, strong men create good times, good times create weak men, and weak men create hard times.
+• No conflict
+Don’t start any conflict, if you feel like something is getting heated, just drop the topic.
 
-> The penalty for procrastination is the loss of hopes and dreams -[@tailopez](https://twitter.com/tailopez)
+• No Inappropriate Language
+The use of profanity should be kept to a minimum. Any derogatory language towards any user is prohibited.
 
-> "The brain is like a muscle. When it is in use we feel very good. Understanding is joyous." —Carl Sagan
+• No spamming
+Don't send a lot of small messages right after each other. Do not disrupt chat by spamming.
 
-> The more you learn, The less time it will take to learn even more.[ - Sushant Singh Rajput](https://twitter.com/hashtag/SushantSinghRajput?src=hashtag_click)
+• No pornographic/adult/other NSFW material
+This is a community server and not meant to share this kind of material.
 
-> A goal without a plan is just a wish.
+• No advertisements
+We do not tolerate any kind of advertisements, whether it be for other communities or streams.
 
-> The world outside these walls is a dangerous place. Nowhere's safe now. You can't run from the world. You can't hide from it. But you can find power and purpose. A chance to survive the horror.
+• No offensive names and profile pictures
+You will be asked to change your name or picture if the staff deems them inappropriate.
 
-> By the sweat of our brow and the strength of our backs and the courage in our hearts! Gentlemen, hoist the colors.
+• Server Raiding
+Raiding or mentions of raiding are not allowed.
 
-> The way we treat our future self is not necessarily negative: Since we think of our future self as someone else, our own decision making reflects how we treat other people.
+• Direct & Indirect Threats
+Threats to other users of DDoS, Death, DoX, abuse, and other malicious threats are absolutely prohibited and disallowed.
 
-> Familiarity breeds a lack of discipline
+• Follow the Discord Community Guidelines
+You can find them here: https://discord.com/guidelines
+
+The staff team will Mute/Kick/Ban per discretion. If you feel mistreated dm @[OWNER] TopClips and I will resolve the issue.
+
+Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them.
