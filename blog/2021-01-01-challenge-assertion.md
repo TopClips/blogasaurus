@@ -7,7 +7,7 @@ author_url: https://github.com/battleofplassey
 author_image_url: https://avatars.githubusercontent.com/u/35087196?v=4
 tags: [conformity, students, learning, essay, gre, awa]
 keywords: [students,conformity, essay, gre ,awa]
-draft: false
+draft: true
 description: Questioning and challenging the assertions of others has proven to be effective in the process of learning
 hide_table_of_contents: false
 image: /img/palash_about-removebg-preview.png
