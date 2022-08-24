@@ -33,12 +33,11 @@ module.exports = {
       id: "support_us",
       backgroundColor: '#fafbfc',
       textColor: '#091E42',
-     content: `If you like what you see, follow me on <a href="https://twitter.com/intent/follow?screen_name=battleofplassey&amp;region=follow_link" class="twitter-follow-button"><div class="icon"></div>@battleofplassey</a>`
-      // content: `⭐️  &nbsp; If you like this blog, follow me on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/battleofplassey">Twitter</a>! &nbsp; ⭐️`,
+     content: `Thanks for showing your intrest in our blog ❤️`
     },
     navbar: {
       hideOnScroll: true,
-      // title: 'Blogasaurus',
+      // title: 'General Support',
       logo: {
         alt: 'Blogasaurus Logo',
         src: 'img/blogasaurus_primary.svg',
@@ -52,12 +51,6 @@ module.exports = {
           position: 'left',
           label: 'Articles',
         },
-        {
-          href: 'https://github.com/battleofplassey',
-          position: 'right',
-          className: 'header-github-link',
-          'aria-label': 'GitHub repository',
-        }
       ],
     },
     footer: {
@@ -92,7 +85,7 @@ module.exports = {
           },
         
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Blogasaurus by Palash Shrivastava`,
+      copyright: `Blogasaurus by Palash Shrivastava`,
     },
     prism: {
       theme: lightCodeTheme,
