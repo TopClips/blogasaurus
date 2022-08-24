@@ -47,7 +47,7 @@ module.exports = {
 
         {
           type: 'doc',
-          docId: 'whoami',
+          docId: 'tos',
           position: 'left',
           label: 'Articles',
         },
