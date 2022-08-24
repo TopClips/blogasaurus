@@ -71,14 +71,6 @@ module.exports = {
         {
           title: 'Social',
           items: [
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/battleofplassey',
-            },
-            {
-              label: 'Instagram',
-              href: 'https://instagram.com/palash_alphas',
-            }
           ],
         },
         {
@@ -88,34 +80,13 @@ module.exports = {
               label: 'Home',
               to: '/',
             },
-            {
-              label: 'Articles',
-              to: '/docs/whoami',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/battleofplassey',
-            },
           ]},
           {
             title: 'other Projects',
             items: [
               {
-                label: 'SidToons.com',
-                href: 'https://sidtoons.com',
-              },
-              {
-                label: 'vocab.js.org',
-                href: 'https://vocab.js.org',
-              },
-              {
-                label: 'TL;DR News',
-                href: 'https://tldr.palashsh.me/'
-              },
-              {
-                label : "<hacker's chat>",
-                href : 'http://chat.palashsh.me/',
-                icon: ''
+                label: 'Discord',
+                href: 'https://discord.gg/Nb4QGk8EgW',
               }
             ],
           },
@@ -145,10 +116,10 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           routeBasePath: '/',
-          blogTitle: 'Blogasaurus',
-          blogDescription: 'A blog by Palash Shrivastava',
+          blogTitle: 'General Support Blog',
+          blogDescription: 'A blog by General Support',
           // editUrl:
-          //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          //   'https://github.com/TopClips/blogasaurus/edit/master/website/blog/',
           path: 'blog',
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All Blog Posts',
