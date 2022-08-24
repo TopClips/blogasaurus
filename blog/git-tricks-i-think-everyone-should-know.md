@@ -17,7 +17,7 @@ description: Blog By Palash Shrivastava
 hide_table_of_contents: false
 slug: git-tricks
 title: GIT tricks I think everyone should know
-draft: false
+draft: true
 
 ---
 <!--truncate-->
