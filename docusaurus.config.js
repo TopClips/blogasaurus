@@ -112,9 +112,9 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
     algolia: {
-      apiKey: '4e4370f02e948a3ef7397a30d0ea006c',
-       indexName: 'dev_blog_gs',
-       appId: 'QIOCCLSP0N',
+      apiKey: 'g',
+       indexName: 'i',
+       appId: 'a',
       placeholder: 'Coming Soon...'
     },
   },
