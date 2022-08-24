@@ -5,4 +5,3 @@ sidebar_label: whoami
 sidebar_position: 3
 
 ---
-Coming Soon
